@@ -4,6 +4,7 @@ function App() {
   return (
     <>
     <Hero/>
+    <div className="h-screen "></div>
     </>
   );
 }
